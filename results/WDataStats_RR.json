@@ -1,0 +1,472 @@
+{
+  "2013-01-01": {
+    "relRichness": 0,
+    "maxRichness": 0,
+    "avgRichness": 0,
+    "medianRichness": 0,
+    "quantileRichness": 0
+  },
+  "2013-02-01": {
+    "relRichness": 0,
+    "maxRichness": 0,
+    "avgRichness": 0,
+    "medianRichness": 0,
+    "quantileRichness": 0
+  },
+  "2013-03-01": {
+    "relRichness": 1,
+    "maxRichness": 157,
+    "avgRichness": 8.051282051282051,
+    "medianRichness": 2,
+    "quantileRichness": [
+      1,
+      2,
+      5
+    ]
+  },
+  "2013-04-01": {
+    "relRichness": 0.7602272727272728,
+    "maxRichness": 633,
+    "avgRichness": 21.12,
+    "medianRichness": 4,
+    "quantileRichness": [
+      2,
+      4,
+      8
+    ]
+  },
+  "2013-05-01": {
+    "relRichness": 0.7608080288214102,
+    "maxRichness": 2336,
+    "avgRichness": 38.666666666666664,
+    "medianRichness": 4,
+    "quantileRichness": [
+      2,
+      4,
+      10
+    ]
+  },
+  "2013-06-01": {
+    "relRichness": 0.8229024809047308,
+    "maxRichness": 4866,
+    "avgRichness": 63.73207547169811,
+    "medianRichness": 5,
+    "quantileRichness": [
+      2,
+      5,
+      16
+    ]
+  },
+  "2013-07-01": {
+    "relRichness": 0.8314296776691511,
+    "maxRichness": 5719,
+    "avgRichness": 68.1914191419142,
+    "medianRichness": 5,
+    "quantileRichness": [
+      2,
+      5,
+      16.5
+    ]
+  },
+  "2013-08-01": {
+    "relRichness": 0.8529944184643234,
+    "maxRichness": 6308,
+    "avgRichness": 74.69295774647887,
+    "medianRichness": 6,
+    "quantileRichness": [
+      2,
+      6,
+      19.5
+    ]
+  },
+  "2013-09-01": {
+    "relRichness": 0.864392881005892,
+    "maxRichness": 7104,
+    "avgRichness": 82.315,
+    "medianRichness": 7,
+    "quantileRichness": [
+      2,
+      7,
+      20.25
+    ]
+  },
+  "2014-01-01": {
+    "relRichness": 0.9492593850980618,
+    "maxRichness": 12189,
+    "avgRichness": 256.1685185185185,
+    "medianRichness": 9,
+    "quantileRichness": [
+      2,
+      9,
+      38.25
+    ]
+  },
+  "2014-02-01": {
+    "relRichness": 0.9480206632584781,
+    "maxRichness": 16189,
+    "avgRichness": 262.6432337434095,
+    "medianRichness": 10,
+    "quantileRichness": [
+      2,
+      10,
+      46
+    ]
+  },
+  "2014-03-01": {
+    "relRichness": 0.9472926635789043,
+    "maxRichness": 17014,
+    "avgRichness": 251.71658615136877,
+    "medianRichness": 11,
+    "quantileRichness": [
+      3,
+      11,
+      49
+    ]
+  },
+  "2014-04-01": {
+    "relRichness": 0.9470153935241037,
+    "maxRichness": 18099,
+    "avgRichness": 255.8395061728395,
+    "medianRichness": 11,
+    "quantileRichness": [
+      2.75,
+      11,
+      55.25
+    ]
+  },
+  "2014-05-01": {
+    "relRichness": 0.9464475531630675,
+    "maxRichness": 19269,
+    "avgRichness": 259.8537666174298,
+    "medianRichness": 11,
+    "quantileRichness": [
+      2,
+      11,
+      55
+    ]
+  },
+  "2014-06-01": {
+    "relRichness": 0.9452567818412739,
+    "maxRichness": 20471,
+    "avgRichness": 254.12689655172414,
+    "medianRichness": 11,
+    "quantileRichness": [
+      2,
+      11,
+      50
+    ]
+  },
+  "2014-07-01": {
+    "relRichness": 0.9442476569994834,
+    "maxRichness": 21227,
+    "avgRichness": 252.61517976031956,
+    "medianRichness": 10,
+    "quantileRichness": [
+      2,
+      10,
+      50.5
+    ]
+  },
+  "2014-08-01": {
+    "relRichness": 0.9424845415548828,
+    "maxRichness": 23753,
+    "avgRichness": 264.0265151515151,
+    "medianRichness": 10,
+    "quantileRichness": [
+      2,
+      10,
+      52.25
+    ]
+  },
+  "2014-09-01": {
+    "relRichness": 0.9415652047355471,
+    "maxRichness": 24991,
+    "avgRichness": 269.11750305997555,
+    "medianRichness": 10,
+    "quantileRichness": [
+      2,
+      10,
+      55
+    ]
+  },
+  "2015-01-01": {
+    "relRichness": 0.9830435006288496,
+    "maxRichness": 215395,
+    "avgRichness": 991.9359391965255,
+    "medianRichness": 11,
+    "quantileRichness": [
+      2,
+      11,
+      74
+    ]
+  },
+  "2015-02-01": {
+    "relRichness": 0.9825914790326101,
+    "maxRichness": 215395,
+    "avgRichness": 972.9695057833859,
+    "medianRichness": 11,
+    "quantileRichness": [
+      2,
+      11,
+      73.5
+    ]
+  },
+  "2015-03-01": {
+    "relRichness": 0.9823583101118107,
+    "maxRichness": 215395,
+    "avgRichness": 977.272633744856,
+    "medianRichness": 12,
+    "quantileRichness": [
+      2,
+      12,
+      77
+    ]
+  },
+  "2015-04-01": {
+    "relRichness": 0.9821059201601131,
+    "maxRichness": 215635,
+    "avgRichness": 944.7514619883041,
+    "medianRichness": 12,
+    "quantileRichness": [
+      2,
+      12,
+      77
+    ]
+  },
+  "2015-05-01": {
+    "relRichness": 0.9820606453357081,
+    "maxRichness": 215635,
+    "avgRichness": 947.3747645951036,
+    "medianRichness": 12,
+    "quantileRichness": [
+      2,
+      12,
+      77.75
+    ]
+  },
+  "2015-06-01": {
+    "relRichness": 0.9817519915622889,
+    "maxRichness": 215635,
+    "avgRichness": 923.4425493716337,
+    "medianRichness": 12,
+    "quantileRichness": [
+      3,
+      12,
+      76
+    ]
+  },
+  "2015-07-01": {
+    "relRichness": 0.9811447278304848,
+    "maxRichness": 215641,
+    "avgRichness": 906.0968020743302,
+    "medianRichness": 12,
+    "quantileRichness": [
+      3,
+      12,
+      76
+    ]
+  },
+  "2015-08-01": {
+    "relRichness": 0.9807428739634132,
+    "maxRichness": 215785,
+    "avgRichness": 897.9141414141415,
+    "medianRichness": 13,
+    "quantileRichness": [
+      3,
+      13,
+      78.5
+    ]
+  },
+  "2015-09-01": {
+    "relRichness": 0.9812057947432651,
+    "maxRichness": 266136,
+    "avgRichness": 999.4360655737705,
+    "medianRichness": 14,
+    "quantileRichness": [
+      3,
+      14,
+      82
+    ]
+  },
+  "2016-01-01": {
+    "relRichness": 0.9871536550356943,
+    "maxRichness": 310228,
+    "avgRichness": 1358.846571622539,
+    "medianRichness": 13,
+    "quantileRichness": [
+      3,
+      13,
+      81
+    ]
+  },
+  "2016-02-01": {
+    "relRichness": 0.9816660127045399,
+    "maxRichness": 310827,
+    "avgRichness": 1551.958525345622,
+    "medianRichness": 14,
+    "quantileRichness": [
+      3,
+      14,
+      81
+    ]
+  },
+  "2016-03-01": {
+    "relRichness": 0.9820019098338378,
+    "maxRichness": 311546,
+    "avgRichness": 1559.4199743918055,
+    "medianRichness": 13,
+    "quantileRichness": [
+      3,
+      13,
+      81
+    ]
+  },
+  "2016-04-01": {
+    "relRichness": 0.9897979696795932,
+    "maxRichness": 485705,
+    "avgRichness": 2682.044675642595,
+    "medianRichness": 13,
+    "quantileRichness": [
+      3,
+      13,
+      76.5
+    ]
+  },
+  "2016-05-01": {
+    "relRichness": 0.9896860911193657,
+    "maxRichness": 485705,
+    "avgRichness": 2588.925338036449,
+    "medianRichness": 13,
+    "quantileRichness": [
+      3,
+      13,
+      75
+    ]
+  },
+  "2016-06-01": {
+    "relRichness": 0.9901503779199916,
+    "maxRichness": 500071,
+    "avgRichness": 2640.1543244771055,
+    "medianRichness": 12,
+    "quantileRichness": [
+      3,
+      12,
+      76
+    ]
+  },
+  "2016-07-01": {
+    "relRichness": 0.9884407977165691,
+    "maxRichness": 579415,
+    "avgRichness": 2849.294603524229,
+    "medianRichness": 12,
+    "quantileRichness": [
+      3,
+      12,
+      77.25
+    ]
+  },
+  "2016-08-01": {
+    "relRichness": 0.9878271253415475,
+    "maxRichness": 579415,
+    "avgRichness": 2774.4309333333335,
+    "medianRichness": 13,
+    "quantileRichness": [
+      3,
+      13,
+      79.5
+    ]
+  },
+  "2016-09-01": {
+    "relRichness": 0.9880485214105892,
+    "maxRichness": 579443,
+    "avgRichness": 2745.065674704977,
+    "medianRichness": 12,
+    "quantileRichness": [
+      3,
+      12,
+      77
+    ]
+  },
+  "2017-01-01": {
+    "relRichness": 0.989124820197638,
+    "maxRichness": 598302,
+    "avgRichness": 2930.8157407407407,
+    "medianRichness": 13,
+    "quantileRichness": [
+      3,
+      13,
+      87.25
+    ]
+  },
+  "2017-02-01": {
+    "relRichness": 0.9895796295782145,
+    "maxRichness": 660615,
+    "avgRichness": 2977.458666666667,
+    "medianRichness": 13,
+    "quantileRichness": [
+      3,
+      13,
+      88
+    ]
+  },
+  "2017-03-01": {
+    "relRichness": 0.9895480512236777,
+    "maxRichness": 662081,
+    "avgRichness": 2913.011187607573,
+    "medianRichness": 12.5,
+    "quantileRichness": [
+      3,
+      12.5,
+      89
+    ]
+  },
+  "2017-04-01": {
+    "relRichness": 0.9896174060613303,
+    "maxRichness": 663362,
+    "avgRichness": 2852.9098055440627,
+    "medianRichness": 12,
+    "quantileRichness": [
+      3,
+      12,
+      88
+    ]
+  },
+  "2017-05-01": {
+    "relRichness": 0.9895733667232278,
+    "maxRichness": 676846,
+    "avgRichness": 2806.0407093913745,
+    "medianRichness": 12,
+    "quantileRichness": [
+      3,
+      12,
+      88
+    ]
+  },
+  "2017-06-01": {
+    "relRichness": 0.9896353672718121,
+    "maxRichness": 678891,
+    "avgRichness": 2780.719373776908,
+    "medianRichness": 12,
+    "quantileRichness": [
+      3,
+      12,
+      85.5
+    ]
+  },"2017-07-01": {"relRichness": 0.9900623967712692, "maxRichness": 1012293, "avgRichness": 2869.5450038138824, "medianRichness": 12.0, "quantileRichness": [3.0, 12.0, 83.0]},
+  "2017-08-01": {"relRichness": 0.9900889998661168, "maxRichness": 1049124, "avgRichness": 2885.6976744186045, "medianRichness": 13.0, "quantileRichness": [3.0, 13.0, 85.0]},
+  "2017-09-01": {"relRichness": 0.9900619530493207, "maxRichness": 1070317, "avgRichness": 2851.4638532110093, "medianRichness": 13.0, "quantileRichness": [3.0, 13.0, 88.0]},
+  "2013-10-01": {"relRichness": 0.9466945304875461, "maxRichness": 9752, "avgRichness": 213.75963718820861, "medianRichness": 7.0, "quantileRichness": [2.0, 7.0, 30.0]},
+  "2014-10-01": {"relRichness": 0.9749103148943709, "maxRichness": 138681, "avgRichness": 642.0568720379147, "medianRichness": 10.0, "quantileRichness": [2.0, 10.0, 57.0]},
+   "2015-10-01": {"relRichness": 0.9822790367590454, "maxRichness": 309094, "avgRichness": 1046.558615263572, "medianRichness": 14.0, "quantileRichness": [3.0, 14.0, 83.0]},
+   "2016-10-01": {"relRichness": 0.9879239796826369, "maxRichness": 579443, "avgRichness": 2679.433549029368, "medianRichness": 12.0, "quantileRichness": [3.0, 12.0, 80.0]},
+   "2017-10-01": {"relRichness": 0.9899887719524446, "maxRichness": 1074804, "avgRichness": 2809.170679123248, "medianRichness": 13.0, "quantileRichness": [3.0, 13.0, 92.0]},
+  "2013-11-01": {"relRichness": 0.9438247547372665, "maxRichness": 9752, "avgRichness": 218.85294117647058, "medianRichness": 8.0, "quantileRichness": [2.0, 8.0, 31.5]},
+  "2014-11-01": {"relRichness": 0.9835725941000678, "maxRichness": 215395, "avgRichness": 993.9498861047836, "medianRichness": 10.0, "quantileRichness": [2.0, 10.0, 60.75]},
+  "2015-11-01": {"relRichness": 0.9859458914503207, "maxRichness": 309427, "avgRichness": 1286.0663189269746, "medianRichness": 14.0, "quantileRichness": [3.0, 14.0, 81.75]},
+  "2016-11-01": {"relRichness": 0.9885988474549691, "maxRichness": 587583, "avgRichness": 2814.8496385542167, "medianRichness": 13.0, "quantileRichness": [3.0, 13.0, 84.5]},
+"2017-11-01": {"relRichness": 0.9899878205359425, "maxRichness": 1074804, "avgRichness": 2809.226733740568, "medianRichness": 13.0, "quantileRichness": [3.0, 13.0, 92.0]},
+"2013-12-01": {"relRichness": 0.9425977528089887, "maxRichness": 9752, "avgRichness": 216.01941747572815, "medianRichness": 9.0, "quantileRichness": [2.0, 9.0, 35.0]},
+"2014-12-01": {"relRichness": 0.9834152538427259, "maxRichness": 215395, "avgRichness": 997.891592920354, "medianRichness": 11.0, "quantileRichness": [2.0, 11.0, 66.5]},
+"2015-12-01": {"relRichness": 0.9869213470447455, "maxRichness": 309801, "avgRichness": 1358.355366027008, "medianRichness": 13.0, "quantileRichness": [3.0, 13.0, 83.0]},
+"2016-12-01": {"relRichness": 0.988961880720085, "maxRichness": 593025, "avgRichness": 2901.008482563619, "medianRichness": 13.0, "quantileRichness": [3.0, 13.0, 85.75]}
+}

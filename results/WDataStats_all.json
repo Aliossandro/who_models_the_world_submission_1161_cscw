@@ -1,0 +1,2079 @@
+{
+  "2013-10-01": {
+    "uniqueClasses": 9997,
+    "P279": 5026,
+    "P31": 6661,
+    "noClasses": 25635,
+    "childLessClasses": 3093,
+    "noRoot": 5085,
+    "noLeaf": 15638,
+    "classesWInstances": 6661,
+    "cRichness": 1,
+    "avgPop": 56.08749756192705,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 0.8842598010532475,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 676,
+    "noPropUseAvg": 29481.18455497382,
+    "noPropUseMedian": 143,
+    "noPropUseMax": 4780359,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      11,
+      143,
+      1966.25
+    ]
+  },
+  "2013-11-01": {
+    "uniqueClasses": 11293,
+    "P279": 5853,
+    "P31": 7346,
+    "noClasses": 28864,
+    "childLessClasses": 3211,
+    "noRoot": 5482,
+    "noLeaf": 17571,
+    "classesWInstances": 7346,
+    "cRichness": 1,
+    "avgPop": 95.92222145232816,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 0.9273143015521065,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 729,
+    "noPropUseAvg": 31762.20343137255,
+    "noPropUseMedian": 141,
+    "noPropUseMax": 5321818,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      12,
+      141,
+      1832.5
+    ]
+  },
+  "2013-12-01": {
+    "uniqueClasses": 12663,
+    "P279": 6388,
+    "P31": 8409,
+    "noClasses": 31149,
+    "childLessClasses": 3480,
+    "noRoot": 5826,
+    "noLeaf": 18486,
+    "classesWInstances": 8409,
+    "cRichness": 1,
+    "avgPop": 135.44203666249317,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 0.950207069247809,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 763,
+    "noPropUseAvg": 35132.412455934194,
+    "noPropUseMedian": 151,
+    "noPropUseMax": 6705211,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      13,
+      151,
+      1846
+    ]
+  },
+  "2014-01-01": {
+    "uniqueClasses": 13731,
+    "P279": 7021,
+    "P31": 9091,
+    "noClasses": 33888,
+    "childLessClasses": 3623,
+    "noRoot": 6081,
+    "noLeaf": 20157,
+    "classesWInstances": 9091,
+    "cRichness": 1,
+    "avgPop": 143.11419971671387,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 0.9688385269121813,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 776,
+    "noPropUseAvg": 37584.565217391304,
+    "noPropUseMedian": 150,
+    "noPropUseMax": 6984280,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      14,
+      150,
+      2129.25
+    ]
+  },
+  "2014-02-01": {
+    "uniqueClasses": 15074,
+    "P279": 7770,
+    "P31": 9897,
+    "noClasses": 37207,
+    "childLessClasses": 3825,
+    "noRoot": 6491,
+    "noLeaf": 22133,
+    "classesWInstances": 9897,
+    "cRichness": 1,
+    "avgPop": 143.1590023382697,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 0.9824495390652297,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 824,
+    "noPropUseAvg": 39379.64239130435,
+    "noPropUseMedian": 155.5,
+    "noPropUseMax": 7394165,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      14,
+      155.5,
+      2278.25
+    ]
+  },
+  "2014-03-01": {
+    "uniqueClasses": 16078,
+    "P279": 8241,
+    "P31": 10658,
+    "noClasses": 39358,
+    "childLessClasses": 4112,
+    "noRoot": 6924,
+    "noLeaf": 23280,
+    "classesWInstances": 10658,
+    "cRichness": 1,
+    "avgPop": 141.89991869505565,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 0.982976777275268,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 892,
+    "noPropUseAvg": 39647.76666666667,
+    "noPropUseMedian": 149.5,
+    "noPropUseMax": 7442905,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      14,
+      149.5,
+      2396.25
+    ]
+  },
+  "2014-04-01": {
+    "uniqueClasses": 17359,
+    "P279": 8786,
+    "P31": 11677,
+    "noClasses": 42167,
+    "childLessClasses": 4538,
+    "noRoot": 7459,
+    "noLeaf": 24808,
+    "classesWInstances": 11677,
+    "cRichness": 1,
+    "avgPop": 138.18775345649442,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 0.9853439893755781,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 916,
+    "noPropUseAvg": 40708.176125244616,
+    "noPropUseMedian": 173.5,
+    "noPropUseMax": 7546421,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      15.25,
+      173.5,
+      2818
+    ]
+  },
+  "2014-05-01": {
+    "uniqueClasses": 18512,
+    "P279": 9423,
+    "P31": 12438,
+    "noClasses": 45144,
+    "childLessClasses": 4773,
+    "noRoot": 7869,
+    "noLeaf": 26632,
+    "classesWInstances": 12438,
+    "cRichness": 1,
+    "avgPop": 139.89938862307284,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 0.9914052808789651,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 964,
+    "noPropUseAvg": 40740.64869888476,
+    "noPropUseMedian": 160,
+    "noPropUseMax": 7650932,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      13,
+      160,
+      2840.75
+    ]
+  },
+  "2014-06-01": {
+    "uniqueClasses": 19749,
+    "P279": 10088,
+    "P31": 13272,
+    "noClasses": 48170,
+    "childLessClasses": 4920,
+    "noRoot": 8210,
+    "noLeaf": 28421,
+    "classesWInstances": 13272,
+    "cRichness": 1,
+    "avgPop": 184.9473946439693,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 1.0009134315964292,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 1019,
+    "noPropUseAvg": 44451.80335097002,
+    "noPropUseMedian": 156,
+    "noPropUseMax": 9116944,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      12.25,
+      156,
+      2849.25
+    ]
+  },
+  "2014-07-01": {
+    "uniqueClasses": 20798,
+    "P279": 10579,
+    "P31": 14035,
+    "noClasses": 50239,
+    "childLessClasses": 5151,
+    "noRoot": 8574,
+    "noLeaf": 29441,
+    "classesWInstances": 14035,
+    "cRichness": 1,
+    "avgPop": 196.34306017237606,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 1.0036226835725233,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 1071,
+    "noPropUseAvg": 44993.794915254235,
+    "noPropUseMedian": 153.5,
+    "noPropUseMax": 10107632,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      11.75,
+      153.5,
+      2709.25
+    ]
+  },
+  "2014-08-01": {
+    "uniqueClasses": 22782,
+    "P279": 12029,
+    "P31": 14983,
+    "noClasses": 70823,
+    "childLessClasses": 4980,
+    "noRoot": 8466,
+    "noLeaf": 48041,
+    "classesWInstances": 14983,
+    "cRichness": 1,
+    "avgPop": 151.74810442935205,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.0306680033322508,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 1108,
+    "noPropUseAvg": 46555.39573070608,
+    "noPropUseMedian": 162,
+    "noPropUseMax": 11053095,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      14,
+      162,
+      2975.5
+    ]
+  },
+  "2014-09-01": {
+    "uniqueClasses": 24215,
+    "P279": 12850,
+    "P31": 15846,
+    "noClasses": 74708,
+    "childLessClasses": 5200,
+    "noRoot": 8899,
+    "noLeaf": 50493,
+    "classesWInstances": 15846,
+    "cRichness": 1,
+    "avgPop": 150.4286823365637,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.0343872142206993,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 1134,
+    "noPropUseAvg": 48006.95652173913,
+    "noPropUseMedian": 178.5,
+    "noPropUseMax": 11586522,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      16,
+      178.5,
+      3183.25
+    ]
+  },
+  "2014-10-01": {
+    "uniqueClasses": 25405,
+    "P279": 13598,
+    "P31": 16531,
+    "noClasses": 111081,
+    "childLessClasses": 5429,
+    "noRoot": 9324,
+    "noLeaf": 85676,
+    "classesWInstances": 16531,
+    "cRichness": 1,
+    "avgPop": 104.15159208145407,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.0322737461852163,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 1172,
+    "noPropUseAvg": 48620.83722741433,
+    "noPropUseMedian": 182,
+    "noPropUseMax": 11956022,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      14,
+      182,
+      3204.5
+    ]
+  },
+  "2014-11-01": {
+    "uniqueClasses": 26656,
+    "P279": 14338,
+    "P31": 17339,
+    "noClasses": 168277,
+    "childLessClasses": 5679,
+    "noRoot": 9814,
+    "noLeaf": 141621,
+    "classesWInstances": 17339,
+    "cRichness": 1,
+    "avgPop": 70.18406555857307,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.02199944139722,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 1212,
+    "noPropUseAvg": 48735.193087903834,
+    "noPropUseMedian": 184,
+    "noPropUseMax": 12245582,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      13,
+      184,
+      3087.5
+    ]
+  },
+  "2014-12-01": {
+    "uniqueClasses": 27981,
+    "P279": 14963,
+    "P31": 18365,
+    "noClasses": 178621,
+    "childLessClasses": 5861,
+    "noRoot": 10136,
+    "noLeaf": 150640,
+    "classesWInstances": 18365,
+    "cRichness": 1,
+    "avgPop": 68.0991204841536,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.0236366384691609,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 1253,
+    "noPropUseAvg": 49329.48185776488,
+    "noPropUseMedian": 183.5,
+    "noPropUseMax": 12639869,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      13,
+      183.5,
+      3112.25
+    ]
+  },
+  "2013-01-01": {
+    "P279": 0,
+    "P31": 0,
+    "relRichness": 0,
+    "maxDepth": 0,
+    "avgDepth": 0,
+    "medianDepth": 0,
+    "quantileDepth": 0,
+    "iRichness": 0,
+    "medianInheritance": 0,
+    "quantileInheritance": 0,
+    "cRichness": 0,
+    "avgPop": 0,
+    "medianPop": 0,
+    "quantilePop": 0,
+    "classesWInstances": 0,
+    "noClasses": 0,
+    "childLessClasses": 0,
+    "noRoot": 0,
+    "noLeaf": 0,
+    "noProps": 0,
+    "noPropUseAvg": 0,
+    "noPropUseMedian": 0,
+    "noPropUseMax": 0,
+    "noPropUseMin": 0,
+    "noPropUseQuant": 0
+  },
+  "2013-02-01": {
+    "P279": 0,
+    "P31": 0,
+    "relRichness": 0,
+    "maxDepth": 0,
+    "avgDepth": 0,
+    "medianDepth": 0,
+    "quantileDepth": 0,
+    "iRichness": 0,
+    "medianInheritance": 0,
+    "quantileInheritance": 0,
+    "cRichness": 0,
+    "avgPop": 0,
+    "medianPop": 0,
+    "quantilePop": 0,
+    "classesWInstances": 0,
+    "noClasses": 0,
+    "childLessClasses": 0,
+    "noRoot": 0,
+    "noLeaf": 0,
+    "noProps": 0,
+    "noPropUseAvg": 0,
+    "noPropUseMedian": 0,
+    "noPropUseMax": 0,
+    "noPropUseMin": 0,
+    "noPropUseQuant": 0
+  },
+  "2013-03-01": {
+    "uniqueClasses": 998,
+    "P279": 0,
+    "P31": 998,
+    "noClasses": 998,
+    "childLessClasses": 998,
+    "noRoot": 998,
+    "noLeaf": 0,
+    "classesWInstances": 998,
+    "cRichness": 1,
+    "avgPop": 17.13326653306613,
+    "medianPop": 1,
+    "quantilePop": [
+      1,
+      1,
+      3
+    ],
+    "iRichness": 0,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 94,
+    "noPropUseAvg": 2527.907142857143,
+    "noPropUseMedian": 127.5,
+    "noPropUseMax": 85199,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      24.75,
+      127.5,
+      637
+    ]
+  },
+  "2013-04-01": {
+    "uniqueClasses": 2563,
+    "P279": 633,
+    "P31": 2195,
+    "noClasses": 3426,
+    "childLessClasses": 1726,
+    "noRoot": 2098,
+    "noLeaf": 863,
+    "classesWInstances": 2195,
+    "cRichness": 1,
+    "avgPop": 35.219497956800936,
+    "medianPop": 1,
+    "quantilePop": [
+      0,
+      1,
+      2
+    ],
+    "iRichness": 0.4363689433741973,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 215,
+    "noPropUseAvg": 9884.951557093425,
+    "noPropUseMedian": 140,
+    "noPropUseMax": 1115592,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      13,
+      140,
+      654
+    ]
+  },
+  "2013-05-01": {
+    "uniqueClasses": 4457,
+    "P279": 1859,
+    "P31": 3256,
+    "noClasses": 7399,
+    "childLessClasses": 1991,
+    "noRoot": 2902,
+    "noLeaf": 2942,
+    "classesWInstances": 3256,
+    "cRichness": 1,
+    "avgPop": 63.93688336261657,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 0.6714420867684823,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      1
+    ],
+    "relRichness": "NA",
+    "noProps": 283,
+    "noPropUseAvg": 18052.9490616622,
+    "noPropUseMedian": 159,
+    "noPropUseMax": 2005093,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      16,
+      159,
+      1578
+    ]
+  },
+  "2013-06-01": {
+    "uniqueClasses": 6103,
+    "P279": 2991,
+    "P31": 4072,
+    "noClasses": 12339,
+    "childLessClasses": 2231,
+    "noRoot": 3464,
+    "noLeaf": 6236,
+    "classesWInstances": 4072,
+    "cRichness": 1,
+    "avgPop": 49.703946835237865,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 0.7899343544857768,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 358,
+    "noPropUseAvg": 27799.751072961375,
+    "noPropUseMedian": 147,
+    "noPropUseMax": 3675611,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      19.25,
+      147,
+      2473
+    ]
+  },
+  "2013-07-01": {
+    "uniqueClasses": 7091,
+    "P279": 3483,
+    "P31": 4736,
+    "noClasses": 14761,
+    "childLessClasses": 2534,
+    "noRoot": 3944,
+    "noLeaf": 7670,
+    "classesWInstances": 4736,
+    "cRichness": 1,
+    "avgPop": 45.01937538107174,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 0.8134272745748933,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 420,
+    "noPropUseAvg": 27363.050656660413,
+    "noPropUseMedian": 128,
+    "noPropUseMax": 3887659,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      16,
+      128,
+      1590
+    ]
+  },
+  "2013-08-01": {
+    "uniqueClasses": 7906,
+    "P279": 3898,
+    "P31": 5285,
+    "noClasses": 18452,
+    "childLessClasses": 2712,
+    "noRoot": 4249,
+    "noLeaf": 10546,
+    "classesWInstances": 5285,
+    "cRichness": 1,
+    "avgPop": 40.932798612616516,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 0.8475504010405376,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 495,
+    "noPropUseAvg": 30607.986688851914,
+    "noPropUseMedian": 110,
+    "noPropUseMax": 4585622,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      13,
+      110,
+      1493
+    ]
+  },
+  "2013-09-01": {
+    "uniqueClasses": 8971,
+    "P279": 4465,
+    "P31": 5977,
+    "noClasses": 20490,
+    "childLessClasses": 2950,
+    "noRoot": 4742,
+    "noLeaf": 11519,
+    "classesWInstances": 5977,
+    "cRichness": 1,
+    "avgPop": 42.432259638848215,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      1
+    ],
+    "iRichness": 0.8513421181063934,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 586,
+    "noPropUseAvg": 29519.437317784257,
+    "noPropUseMedian": 122,
+    "noPropUseMax": 4768278,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      12,
+      122,
+      1747.5
+    ]
+  },
+  "2015-10-01": {
+    "uniqueClasses": 42111,
+    "P279": 23573,
+    "P31": 26991,
+    "noClasses": 277987,
+    "childLessClasses": 8228,
+    "noRoot": 14122,
+    "noLeaf": 235876,
+    "classesWInstances": 26991,
+    "cRichness": 1,
+    "avgPop": 53.33789349861684,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.4755869878807282,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 1644,
+    "noPropUseAvg": 51064.85063152114,
+    "noPropUseMedian": 283,
+    "noPropUseMax": 15987670,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      18,
+      283,
+      3564
+    ]
+  },
+  "2015-11-01": {
+    "uniqueClasses": 43579,
+    "P279": 24256,
+    "P31": 28067,
+    "noClasses": 307811,
+    "childLessClasses": 8632,
+    "noRoot": 14787,
+    "noLeaf": 264232,
+    "classesWInstances": 28067,
+    "cRichness": 1,
+    "avgPop": 49.24142087189867,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.598061797661552,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 1781,
+    "noPropUseAvg": 51224.3120124805,
+    "noPropUseMedian": 283,
+    "noPropUseMax": 16382531,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      16,
+      283,
+      3660.5
+    ]
+  },
+  "2015-12-01": {
+    "uniqueClasses": 44947,
+    "P279": 24996,
+    "P31": 28935,
+    "noClasses": 321210,
+    "childLessClasses": 8944,
+    "noRoot": 15305,
+    "noLeaf": 276263,
+    "classesWInstances": 28935,
+    "cRichness": 1,
+    "avgPop": 48.42673328974814,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.579412222533545,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 1875,
+    "noPropUseAvg": 50997.06203473945,
+    "noPropUseMedian": 288,
+    "noPropUseMax": 16871728,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      18,
+      288,
+      3729.5
+    ]
+  },
+  "2016-01-01": {
+    "uniqueClasses": 46163,
+    "P279": 25713,
+    "P31": 29661,
+    "noClasses": 344623,
+    "childLessClasses": 9226,
+    "noRoot": 15851,
+    "noLeaf": 298460,
+    "classesWInstances": 29661,
+    "cRichness": 1,
+    "avgPop": 46.15549745664102,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.5415918264306212,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 1940,
+    "noPropUseAvg": 50851.11446360153,
+    "noPropUseMedian": 291,
+    "noPropUseMax": 17381898,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      19.75,
+      291,
+      3610.5
+    ]
+  },
+  "2016-02-01": {
+    "uniqueClasses": 64297,
+    "P279": 43221,
+    "P31": 30545,
+    "noClasses": 457258,
+    "childLessClasses": 9514,
+    "noRoot": 16369,
+    "noLeaf": 392961,
+    "classesWInstances": 30545,
+    "cRichness": 1,
+    "avgPop": 35.32427644786969,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.477518162612792,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 2027,
+    "noPropUseAvg": 50882.29224376731,
+    "noPropUseMedian": 297.5,
+    "noPropUseMax": 17685121,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      20,
+      297.5,
+      3713.25
+    ]
+  },
+  "2016-03-01": {
+    "uniqueClasses": 65850,
+    "P279": 43840,
+    "P31": 31733,
+    "noClasses": 467229,
+    "childLessClasses": 10141,
+    "noRoot": 17167,
+    "noLeaf": 401379,
+    "classesWInstances": 31733,
+    "cRichness": 1,
+    "avgPop": 36.47774859865291,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.467841251292193,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 2065,
+    "noPropUseAvg": 51561.21920289855,
+    "noPropUseMedian": 345,
+    "noPropUseMax": 18631903,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      23,
+      345,
+      3877.75
+    ]
+  },
+  "2016-04-01": {
+    "uniqueClasses": 67309,
+    "P279": 44710,
+    "P31": 32624,
+    "noClasses": 1009166,
+    "childLessClasses": 10426,
+    "noRoot": 17659,
+    "noLeaf": 941857,
+    "classesWInstances": 32624,
+    "cRichness": 1,
+    "avgPop": 17.133281343208154,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.2174250817011274,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 2177,
+    "noPropUseAvg": 51715.055293613375,
+    "noPropUseMedian": 319,
+    "noPropUseMax": 18917490,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      21,
+      319,
+      3741
+    ]
+  },
+  "2016-05-01": {
+    "uniqueClasses": 68498,
+    "P279": 45420,
+    "P31": 33346,
+    "noClasses": 1012508,
+    "childLessClasses": 10672,
+    "noRoot": 18106,
+    "noLeaf": 944010,
+    "classesWInstances": 33346,
+    "cRichness": 1,
+    "avgPop": 17.287724146377116,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.2177167982870258,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 2274,
+    "noPropUseAvg": 50722.066584463624,
+    "noPropUseMedian": 322,
+    "noPropUseMax": 19183564,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      23,
+      322,
+      3692
+    ]
+  },
+  "2016-06-01": {
+    "uniqueClasses": 69593,
+    "P279": 46002,
+    "P31": 34063,
+    "noClasses": 1107141,
+    "childLessClasses": 10923,
+    "noRoot": 18477,
+    "noLeaf": 1037548,
+    "classesWInstances": 34063,
+    "cRichness": 1,
+    "avgPop": 16.09693254969331,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.199740593113253,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 2360,
+    "noPropUseAvg": 50689.002380952385,
+    "noPropUseMedian": 311.5,
+    "noPropUseMax": 19549601,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      23,
+      311.5,
+      3549
+    ]
+  },
+  "2016-07-01": {
+    "uniqueClasses": 84005,
+    "P279": 59811,
+    "P31": 34901,
+    "noClasses": 1225077,
+    "childLessClasses": 11211,
+    "noRoot": 19121,
+    "noLeaf": 1141072,
+    "classesWInstances": 34901,
+    "cRichness": 1,
+    "avgPop": 14.92422680370295,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.2753279997910336,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 2407,
+    "noPropUseAvg": 51560.5506402794,
+    "noPropUseMedian": 326,
+    "noPropUseMax": 20045900,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      24,
+      326,
+      3559
+    ]
+  },
+  "2016-08-01": {
+    "uniqueClasses": 87995,
+    "P279": 63324,
+    "P31": 35561,
+    "noClasses": 1228339,
+    "childLessClasses": 11428,
+    "noRoot": 19515,
+    "noLeaf": 1140344,
+    "classesWInstances": 35561,
+    "cRichness": 1,
+    "avgPop": 15.215830483278639,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.3645255910624021,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 2458,
+    "noPropUseAvg": 51247.36538461538,
+    "noPropUseMedian": 328.5,
+    "noPropUseMax": 20499192,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      24.75,
+      328.5,
+      3582.75
+    ]
+  },
+  "2016-09-01": {
+    "uniqueClasses": 89073,
+    "P279": 63942,
+    "P31": 36201,
+    "noClasses": 1240537,
+    "childLessClasses": 11664,
+    "noRoot": 19906,
+    "noLeaf": 1151464,
+    "classesWInstances": 36201,
+    "cRichness": 1,
+    "avgPop": 15.533491544387632,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.3631886836104041,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 2492,
+    "noPropUseAvg": 51190.317321688504,
+    "noPropUseMedian": 337.5,
+    "noPropUseMax": 21129520,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      25,
+      337.5,
+      3586.25
+    ]
+  },
+  "2016-10-01": {
+    "uniqueClasses": 91608,
+    "P279": 65005,
+    "P31": 37950,
+    "noClasses": 1252779,
+    "childLessClasses": 12369,
+    "noRoot": 20762,
+    "noLeaf": 1161171,
+    "classesWInstances": 37950,
+    "cRichness": 1,
+    "avgPop": 15.674165994161779,
+    "medianPop": 0,
+    "maxPop": 3206149,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.3609327742562733,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 2606,
+    "noPropUseAvg": 50711.82027972028,
+    "noPropUseMedian": 335.5,
+    "noPropUseMax": 21528725,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      25,
+      335.5,
+      3593.25
+    ]
+  },
+  "2016-11-01": {
+    "uniqueClasses": 94890,
+    "P279": 66592,
+    "P31": 39932,
+    "noClasses": 1289357,
+    "childLessClasses": 12621,
+    "noRoot": 21133,
+    "noLeaf": 1194467,
+    "classesWInstances": 39932,
+    "cRichness": 1,
+    "avgPop": 15.527870868968021,
+    "medianPop": 0,
+    "maxPop": 3233536,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.419129069761129,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 2681,
+    "noPropUseAvg": 52193.16280653951,
+    "noPropUseMedian": 347,
+    "noPropUseMax": 21970598,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      28,
+      347,
+      3703.5
+    ]
+  },
+  "2016-12-01": {
+    "uniqueClasses": 98417,
+    "P279": 67950,
+    "P31": 42368,
+    "noClasses": 1336188,
+    "childLessClasses": 12883,
+    "noRoot": 21479,
+    "noLeaf": 1237771,
+    "classesWInstances": 42368,
+    "cRichness": 1,
+    "avgPop": 15.167367915293356,
+    "medianPop": 0,
+    "maxPop": 3265839,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.5490933910497624,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 2734,
+    "noPropUseAvg": 53175.30244228839,
+    "noPropUseMedian": 362,
+    "noPropUseMax": 22252661,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      29,
+      362,
+      3740
+    ]
+  },
+  "2015-01-01": {
+    "uniqueClasses": 29341,
+    "P279": 15491,
+    "P31": 19831,
+    "noClasses": 182803,
+    "childLessClasses": 6096,
+    "noRoot": 10472,
+    "noLeaf": 153462,
+    "classesWInstances": 19831,
+    "cRichness": 1,
+    "avgPop": 68.07154149548968,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.0503711645870144,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 1299,
+    "noPropUseAvg": 50025.74679943101,
+    "noPropUseMedian": 189.5,
+    "noPropUseMax": 12992877,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      13,
+      189.5,
+      3201.75
+    ]
+  },
+  "2015-02-01": {
+    "uniqueClasses": 30520,
+    "P279": 16108,
+    "P31": 20737,
+    "noClasses": 189805,
+    "childLessClasses": 6343,
+    "noRoot": 10862,
+    "noLeaf": 159285,
+    "classesWInstances": 20737,
+    "cRichness": 1,
+    "avgPop": 66.81603751218356,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.0741076367851217,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 1323,
+    "noPropUseAvg": 50328.516399162596,
+    "noPropUseMedian": 196,
+    "noPropUseMax": 13340001,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      14,
+      196,
+      3335
+    ]
+  },
+  "2015-03-01": {
+    "uniqueClasses": 31636,
+    "P279": 16758,
+    "P31": 21490,
+    "noClasses": 199315,
+    "childLessClasses": 6570,
+    "noRoot": 11281,
+    "noLeaf": 167679,
+    "classesWInstances": 21490,
+    "cRichness": 1,
+    "avgPop": 65.2099139552969,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.0773900609587839,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 1338,
+    "noPropUseAvg": 51577.81862068966,
+    "noPropUseMedian": 221,
+    "noPropUseMax": 13692485,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      16,
+      221,
+      3486.5
+    ]
+  },
+  "2015-04-01": {
+    "uniqueClasses": 32637,
+    "P279": 17345,
+    "P31": 22120,
+    "noClasses": 203430,
+    "childLessClasses": 6725,
+    "noRoot": 11485,
+    "noLeaf": 170793,
+    "classesWInstances": 22120,
+    "cRichness": 1,
+    "avgPop": 65.47153812122106,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.1123039866293074,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 1399,
+    "noPropUseAvg": 51248.828042328045,
+    "noPropUseMedian": 221,
+    "noPropUseMax": 14051417,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      16,
+      221,
+      3562.75
+    ]
+  },
+  "2015-05-01": {
+    "uniqueClasses": 33870,
+    "P279": 18049,
+    "P31": 22902,
+    "noClasses": 214309,
+    "childLessClasses": 6884,
+    "noRoot": 11784,
+    "noLeaf": 180439,
+    "classesWInstances": 22902,
+    "cRichness": 1,
+    "avgPop": 63.8838219580139,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.1111339234469855,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 1451,
+    "noPropUseAvg": 51022.156787762906,
+    "noPropUseMedian": 220,
+    "noPropUseMax": 14565336,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      14,
+      220,
+      3516
+    ]
+  },
+  "2015-06-01": {
+    "uniqueClasses": 35177,
+    "P279": 18772,
+    "P31": 23775,
+    "noClasses": 219834,
+    "childLessClasses": 7222,
+    "noRoot": 12347,
+    "noLeaf": 184657,
+    "classesWInstances": 23775,
+    "cRichness": 1,
+    "avgPop": 62.95495692204118,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.110365093661581,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 1483,
+    "noPropUseAvg": 50956.09090909091,
+    "noPropUseMedian": 240.5,
+    "noPropUseMax": 14747053,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      16,
+      240.5,
+      3429.75
+    ]
+  },
+  "2015-07-01": {
+    "uniqueClasses": 36749,
+    "P279": 19767,
+    "P31": 24608,
+    "noClasses": 233862,
+    "childLessClasses": 7505,
+    "noRoot": 12814,
+    "noLeaf": 197113,
+    "classesWInstances": 24608,
+    "cRichness": 1,
+    "avgPop": 60.764827120267505,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.1065500166765014,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 1508,
+    "noPropUseAvg": 50858.50865671642,
+    "noPropUseMedian": 253,
+    "noPropUseMax": 15149449,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      16,
+      253,
+      3438
+    ]
+  },
+  "2015-08-01": {
+    "uniqueClasses": 38073,
+    "P279": 20542,
+    "P31": 25429,
+    "noClasses": 240007,
+    "childLessClasses": 7762,
+    "noRoot": 13241,
+    "noLeaf": 201934,
+    "classesWInstances": 25429,
+    "cRichness": 1,
+    "avgPop": 59.908031849071065,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.1074718654039257,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 1548,
+    "noPropUseAvg": 51000.22668997669,
+    "noPropUseMedian": 275,
+    "noPropUseMax": 15373069,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      17.75,
+      275,
+      3560.25
+    ]
+  },
+  "2015-09-01": {
+    "uniqueClasses": 40856,
+    "P279": 22916,
+    "P31": 26108,
+    "noClasses": 260514,
+    "childLessClasses": 7934,
+    "noRoot": 13619,
+    "noLeaf": 219658,
+    "classesWInstances": 26108,
+    "cRichness": 1,
+    "avgPop": 55.869680708138524,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.3393982665039115,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "relRichness": "NA",
+    "noProps": 1562,
+    "noPropUseAvg": 52064.75387263339,
+    "noPropUseMedian": 298,
+    "noPropUseMax": 15596652,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      20,
+      298,
+      3682
+    ]
+  },
+  "2017-01-01": {
+    "uniqueClasses": 100039,
+    "P279": 68846,
+    "P31": 43388,
+    "noClasses": 1348324,
+    "childLessClasses": 13305,
+    "noRoot": 22072,
+    "noLeaf": 1248285,
+    "classesWInstances": 43388,
+    "cRichness": 1,
+    "avgPop": 15.17456783384409,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.5496868705148021,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 2779,
+    "noPropUseAvg": 53557.134539473685,
+    "noPropUseMedian": 385.5,
+    "noPropUseMax": 22479157,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      31,
+      385.5,
+      3831.25
+    ]
+  },
+  "2017-02-01": {
+    "uniqueClasses": 101672,
+    "P279": 69809,
+    "P31": 44388,
+    "noClasses": 1360383,
+    "childLessClasses": 13634,
+    "noRoot": 22563,
+    "noLeaf": 1258711,
+    "classesWInstances": 44388,
+    "cRichness": 1,
+    "avgPop": 15.399628633994984,
+    "medianPop": 0,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.9414694244194466,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 2914,
+    "noPropUseAvg": 54824.42924976259,
+    "noPropUseMedian": 399,
+    "noPropUseMax": 23058823,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      31,
+      399,
+      3792.5
+    ]
+  },
+  "2017-03-01": {
+    "uniqueClasses": 103153,
+    "P279": 70758,
+    "P31": 45206,
+    "noClasses": 1368613,
+    "childLessClasses": 13877,
+    "noRoot": 22993,
+    "noLeaf": 1265460,
+    "classesWInstances": 45206,
+    "cRichness": 1,
+    "avgPop": 15.624135529912401,
+    "medianPop": 0,
+    "maxPop": 3357799,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.944554815714888,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 3070,
+    "noPropUseAvg": 53935.63265922125,
+    "noPropUseMedian": 406,
+    "noPropUseMax": 23544371,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      33,
+      406,
+      3590
+    ]
+  },
+  "2017-04-01": {
+    "uniqueClasses": 104721,
+    "P279": 71593,
+    "P31": 46261,
+    "noClasses": 1392894,
+    "childLessClasses": 14245,
+    "noRoot": 23513,
+    "noLeaf": 1288173,
+    "classesWInstances": 46261,
+    "cRichness": 1,
+    "avgPop": 15.53033827412567,
+    "medianPop": 0,
+    "maxPop": 3383393,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.9294289443417805,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 3184,
+    "noPropUseAvg": 53290.7936786655,
+    "noPropUseMedian": 426,
+    "noPropUseMax": 23845475,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      35,
+      426,
+      3697
+    ]
+  },
+  "2017-05-01": {
+    "uniqueClasses": 106724,
+    "P279": 72588,
+    "P31": 47586,
+    "noClasses": 1402897,
+    "childLessClasses": 14746,
+    "noRoot": 24256,
+    "noLeaf": 1296173,
+    "classesWInstances": 47586,
+    "cRichness": 1,
+    "avgPop": 15.900987028983597,
+    "medianPop": 0,
+    "maxPop": 3410962,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.9572242295763695,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 3265,
+    "noPropUseAvg": 53515.70795194508,
+    "noPropUseMedian": 421.5,
+    "noPropUseMax": 24585842,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      37,
+      421.5,
+      3664.25
+    ]
+  },
+  "2017-06-01": {
+    "uniqueClasses": 108547,
+    "P279": 73638,
+    "P31": 48751,
+    "noClasses": 1408300,
+    "childLessClasses": 15095,
+    "noRoot": 24775,
+    "noLeaf": 1299753,
+    "classesWInstances": 48751,
+    "cRichness": 1,
+    "avgPop": 16.377557338635235,
+    "medianPop": 0,
+    "maxPop": 3437195,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.9545451963360079,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 3348,
+    "noPropUseAvg": 53769.96069138556,
+    "noPropUseMedian": 430,
+    "noPropUseMax": 25415436,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      38,
+      430,
+      3624.5
+    ]
+  },
+  "2017-07-01": {
+    "uniqueClasses": 110358,
+    "P279": 74770,
+    "P31": 49829,
+    "noClasses": 1414786,
+    "childLessClasses": 15353,
+    "noRoot": 25166,
+    "noLeaf": 1304428,
+    "classesWInstances": 49829,
+    "cRichness": 1,
+    "avgPop": 17.52721754385469,
+    "medianPop": 0,
+    "maxPop": 3464264,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.9513742714445859,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 3442,
+    "noPropUseAvg": 56074.109085963006,
+    "noPropUseMedian": 425.5,
+    "noPropUseMax": 27188163,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      39,
+      425.5,
+      3559
+    ]
+  },
+  "2017-08-01": {
+    "uniqueClasses": 112395,
+    "P279": 76248,
+    "P31": 50729,
+    "noClasses": 1444825,
+    "childLessClasses": 15617,
+    "noRoot": 25860,
+    "noLeaf": 1332430,
+    "classesWInstances": 50729,
+    "cRichness": 1,
+    "avgPop": 18.879627636564983,
+    "medianPop": 0,
+    "maxPop": 4229256,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.9335954181302233,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 3477,
+    "noPropUseAvg": 60792.582662372515,
+    "noPropUseMedian": 446,
+    "noPropUseMax": 29792103,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      42,
+      446,
+      3676
+    ]
+  },
+  "2017-09-01": {
+    "uniqueClasses": 113974,
+    "P279": 77221,
+    "P31": 51668,
+    "noClasses": 1457802,
+    "childLessClasses": 15851,
+    "noRoot": 26258,
+    "noLeaf": 1343828,
+    "classesWInstances": 51668,
+    "cRichness": 1,
+    "avgPop": 21.557735549820894,
+    "medianPop": 0,
+    "maxPop": 5244954,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.9269475552921453,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 3529,
+    "noPropUseAvg": 73905.34488230626,
+    "noPropUseMedian": 463,
+    "noPropUseMax": 34056885,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      42,
+      463,
+      3784
+    ]
+  },
+  "2017-10-01": {
+    "uniqueClasses": 115676,
+    "P279": 78266,
+    "P31": 52707,
+    "noClasses": 1465639,
+    "childLessClasses": 16106,
+    "noRoot": 26265,
+    "noLeaf": 1349963,
+    "classesWInstances": 52707,
+    "cRichness": 1,
+    "avgPop": 23.660419107297226,
+    "medianPop": 0,
+    "maxPop": 8058079,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.9334795266774425,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 3589,
+    "noPropUseAvg": 90111.27906371912,
+    "noPropUseMedian": 476,
+    "noPropUseMax": 38114573,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      44,
+      476,
+      3848
+    ]
+  },
+  "2017-11-01": {
+    "uniqueClasses": 115694,
+    "P279": 78275,
+    "P31": 52725,
+    "noClasses": 1465689,
+    "childLessClasses": 16109,
+    "noRoot": 26269,
+    "noLeaf": 1349995,
+    "classesWInstances": 52725,
+    "cRichness": 1,
+    "avgPop": 23.676610795332433,
+    "medianPop": 0,
+    "maxPop": 8079841,
+    "quantilePop": [
+      0,
+      0,
+      0
+    ],
+    "iRichness": 1.93345177592245,
+    "medianInheritance": 0,
+    "quantileInheritance": [
+      0,
+      0,
+      0
+    ],
+    "noProps": 3589,
+    "noPropUseAvg": 90292.71814872595,
+    "noPropUseMedian": 476,
+    "noPropUseMax": 38198147,
+    "noPropUseMin": 1,
+    "noPropUseQuant": [
+      44,
+      476,
+      3843.75
+    ]
+  }
+}

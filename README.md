@@ -1,2 +1,7 @@
-# who_models_the_world_submission_1161_cscw
-Code and scripts created for the submission no. 1161 to CSCW 2018
+# Who models the world? Collaborative ontology creation and user roles in Wikidata
+
+Wikidata is a collaborative knowledge graph which is central to many academic and industry IT projects. Its users are responsible for maintaining the schema that organises this knowledge into classes, properties, and attributes, which together form the Wikidata "ontology".  We studied the relationship between different Wikidata user roles and the quality of the Wikidata ontology. To do so we first proposed a framework to evaluate the ontology as it evolves. We then clustered editing activities to identify user roles in monthly time frames. Finally, we explored how each role impacts the ontology. Our analysis shows that the Wikidata ontology has uneven breadth and depth. We identified two user roles: contributors and leaders. The second category is positively associated to ontology depth, with no significant effect on other features. Further work should investigate other dimensions to define user profiles and their influence on the knowledge graph.
+
+The code and datasets hosted in this repo have been created for the the paper *Who models the world? Collaborative ontology creation and user roles in Wikidata*, accepted for publication at the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2018).
+
+*A link to the paper will be added as soon as it becomes available.*
